@@ -7,10 +7,10 @@ use crudnodejsmysql;
 
 --creating a table
 CREATE TABLE customer (
-    id INT(6) PRIMARY KEY,
-    name VARCHAR(50) NOT NULL,
-    address VARCHAR(100),
-    phone VARCHAR(15),
+   id INT(6) PRIMARY KEY,
+   name VARCHAR(50) NOT NULL,
+   address VARCHAR(100),
+   phone VARCHAR(15),
     
 );
 
