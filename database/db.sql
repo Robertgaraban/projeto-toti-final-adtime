@@ -17,5 +17,3 @@ show tables;
 
 -- to describe table
 describe customer;
-
-
