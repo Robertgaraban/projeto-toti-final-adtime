@@ -2,7 +2,7 @@
 --CREATE DATABASE adtime;
 
 -- to use database
---use adtime;
+use adtime;
 
 -- creating a new table
 --CREATE TABLE adtime (
